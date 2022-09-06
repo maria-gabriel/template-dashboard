@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Pe-icon-7-weather';
-	src:url('../fonts/Pe-icon-7-weather.eot?-ujaud2');
-	src:url('../fonts/Pe-icon-7-weather.eot?#iefix-ujaud2') format('embedded-opentype'),
-		url('../fonts/Pe-icon-7-weather.woff?-ujaud2') format('woff'),
-		url('../fonts/Pe-icon-7-weather.ttf?-ujaud2') format('truetype'),
-		url('../fonts/Pe-icon-7-weather.svg?-ujaud2#Pe-icon-7-weather') format('svg');
+	src:url('fonts/Pe-icon-7-weather.eot?-ujaud2');
+	src:url('fonts/Pe-icon-7-weather.eot?#iefix-ujaud2') format('embedded-opentype'),
+		url('fonts/Pe-icon-7-weather.woff?-ujaud2') format('woff'),
+		url('fonts/Pe-icon-7-weather.ttf?-ujaud2') format('truetype'),
+		url('fonts/Pe-icon-7-weather.svg?-ujaud2#Pe-icon-7-weather') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
