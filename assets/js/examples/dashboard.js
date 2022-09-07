@@ -1454,13 +1454,11 @@ $(document).ready(function () {
             };
 
 
-            window.onload = function () {
+            // window.onload = function () {
                 var ctx = document.getElementById('hot-products').getContext('2d');
-
                 var chart = new Chart(ctx, config);
-
                 document.getElementById('hot-products-legends').innerHTML = chart.generateLegend();
-            };
+            // };
         }
     }
 

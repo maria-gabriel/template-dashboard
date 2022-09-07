@@ -1,5 +1,5 @@
-const ctx = document.getElementById('chartjs_one').getContext('2d');
-const data = {
+const ctx1 = document.getElementById('chartjs_one').getContext('2d');
+const data1 = {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
     datasets: [{
         label: '# of Votes',
@@ -23,9 +23,9 @@ const data = {
         borderWidth: 1
     }]
 }
-const myChart = new Chart(ctx, {
+const myChart1 = new Chart(ctx1, {
     type: 'bar',
-    data: data,
+    data: data1,
     options: {
         scales: {
             y: {
